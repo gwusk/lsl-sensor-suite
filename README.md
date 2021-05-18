@@ -9,3 +9,5 @@ To stream EDA, PPG, TEMP, HR/IBI, BATT, and ACC data from the Empatica E4 to LSL
 
 muse-lsl
 See https://github.com/alexandrebarachant/muse-lsl
+
+![alt text](sensorSuite.JPG)
